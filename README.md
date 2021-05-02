@@ -100,6 +100,15 @@ Covid Alert provides adminstration page for authorities such as hospitals and se
 
 ![Working Prototype](/img/Covid-Alert-Application-Prototyp.gif)
 
+--------
+
+## Upcoming Feature :- Social Distancing Detector
+
+<td>
+    <img src="/img/social-distancing-feature.png"/width="350" height="350"/>
+</td>
+      
+
 
 
 
