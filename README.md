@@ -2,7 +2,7 @@
 
 # Covid Alert
 
-Application for monitoring and predicting whether the person is wearing mask or not and whether the maintaining social distancing or not.
+Application for monitoring and predicting whether the person is wearing mask or not and whether they maintaining social distancing or not.
 
 ## Developers and Maintainers
 The project is developed and maintained by :-
