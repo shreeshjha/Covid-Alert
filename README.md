@@ -1,8 +1,8 @@
-# 
+<img src="/img/logo.jfif" align="left" hspace="1" vspace="1" height="150" width="150">
 
 # Covid Alert
 
-Application for monitotring and predicting whether the person is wearing mask or not and whether the maintaining social distancing or not.
+Application for monitoring and predicting whether the person is wearing mask or not and whether the maintaining social distancing or not.
 
 ## Developers and Maintainers
 The project is developed and maintained by :-
