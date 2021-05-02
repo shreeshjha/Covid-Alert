@@ -25,7 +25,7 @@ The project is developed and maintained by :-
 </td>
 
 <td>
-     <img src="https://avatars.githubusercontent.com/u/20076446866?v=4"/width="200" height="200"/>
+     <img src="https://avatars.githubusercontent.com/u/76446866?v=4"/width="200" height="200"/>
   
   Abheet Sethi
 <p align="center">
