@@ -44,7 +44,7 @@ The project is developed and maintained by :-
 
 <p align="center">
 <a href = "https://github.com/vidhijain470"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = ""><img src = "https://www.shareicon.net/download/2016/07/06/107115_media.svg" width="36" height="36"/></a>
+<a href = "https://twitter.com/vidhi470"><img src = "https://www.shareicon.net/download/2016/07/06/107115_media.svg" width="36" height="36"/></a>
 <a href = "https://www.linkedin.com/in/vidhi-jain-317633205/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
 </p>
 </td>
@@ -88,5 +88,16 @@ Covid Alert provides adminstration page for authorities such as hospitals and se
 ![Login_Page](/img/login1.png)
 ![Advice and News](/img/livecasesandnews.png)
 ![Advice_Page](/img/advice.png)
+
+---------
+
+## Preview of Covid-Alert Application
+
+![Face Detection without Mask](/img/FaceDetection_NoMask.png)
+![Face Detection with Mask](/img/FaceDetection_Mask.png)
+
+
+
+
 
 
