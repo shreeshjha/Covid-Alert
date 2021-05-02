@@ -107,6 +107,12 @@ Covid Alert provides adminstration page for authorities such as hospitals and se
 <td>
     <img src="/img/social-distancing-feature.png"/width="350" height="350"/>
 </td>
+
+------
+
+## License
+
+This project is currently licensed under GNU Lesser General Public License v3.0 (LGPL-3.0). A copy of LICENSE.md should be present along with the source code. To obtain the software under a different license.
       
 
 
