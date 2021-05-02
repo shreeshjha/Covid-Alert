@@ -8,10 +8,10 @@ Application for monitoring and predicting whether the person is wearing mask or 
 
 ## Developers and Maintainers
 The project is developed and maintained by :-
-- Shreesh Kumar Jha ([Shreesh](https://github.com/shreeshjha))
-- Abheet Sethi ([Abheet](https://github.com/AbheetSethi))
-- Vidhi Jain ([Vidhi](https://github.com/vidhijain470))
-- Madhur Narang([Madhur](https://github.com/MadhurNarang))
+- **Shreesh Kumar Jha** ([Shreesh](https://github.com/shreeshjha))
+- **Abheet Sethi** ([Abheet](https://github.com/AbheetSethi))
+- **Vidhi Jain** ([Vidhi](https://github.com/vidhijain470))
+- **Madhur Narang**([Madhur](https://github.com/MadhurNarang))
 <table>
 <tr>
 <td>
