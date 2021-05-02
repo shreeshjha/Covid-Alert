@@ -96,6 +96,10 @@ Covid Alert provides adminstration page for authorities such as hospitals and se
 ![Face Detection without Mask](/img/FaceDetection_NoMask.png)
 ![Face Detection with Mask](/img/FaceDetection_Mask.png)
 
+--------
+
+![Working Prototype](/img/Covid-Alert-Application-Prototyp.gif)
+
 
 
 
