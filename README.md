@@ -67,7 +67,7 @@ The project is developed and maintained by :-
 
 --------
 
-## Covid-Alert solves
+## Covid-Alert Solves
 Covid Alert provides adminstration page for authorities such as hospitals and security agencies. It comprises of application which detects whether the person is wearing mask or not and will detect social distancing norms are being followed or not in near updates.
 
 - Proper utilisation of this project can help in limiting the spread the Covid-19 and also insure strict surveillance on government norms.
