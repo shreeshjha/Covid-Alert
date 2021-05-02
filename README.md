@@ -4,12 +4,14 @@
 
 Application for monitoring and predicting whether the person is wearing mask or not and whether they maintaining social distancing or not.
 
+------
+
 ## Developers and Maintainers
 The project is developed and maintained by :-
 - Shreesh Kumar Jha ([Shreesh](https://github.com/shreeshjha))
 - Abheet Sethi ([Abheet](https://github.com/AbheetSethi))
-- Vidhi Jain ([Vidhi]())
-- Madhur Narang([Madhur]())
+- Vidhi Jain ([Vidhi](https://github.com/vidhijain470))
+- Madhur Narang([Madhur](https://github.com/MadhurNarang))
 <table>
 <tr>
 <td>
@@ -38,16 +40,32 @@ The project is developed and maintained by :-
 <td>
     <img src="https://avatars.githubusercontent.com/u/79098805?v=4"/width="200" height="200"/>
   
-    Vidhi Jain
+   Vidhi Jain
 
 <p align="center">
 <a href = "https://github.com/vidhijain470"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://twitter.com/nmdis_iti"><img src = "https://www.shareicon.net/download/2016/07/06/107115_media.svg" width="36" height="36"/></a>
-<a href = "https://www.linkedin.com/in/iti-shree-6b0ba210b/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
+<a href = ""><img src = "https://www.shareicon.net/download/2016/07/06/107115_media.svg" width="36" height="36"/></a>
+<a href = "https://www.linkedin.com/in/vidhi-jain-317633205/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
 </p>
 </td>
+
+<td> 
+    <img src="https://avatars.githubusercontent.com/u/71398066?v=4"/width="200" height="200"/>
+  
+  Madhur Narang
+
+<p align="center">
+<a href = "https://github.com/MadhurNarang"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://twitter.com/"><img src = "https://www.shareicon.net/download/2016/07/06/107115_media.svg" width="36" height="36"/></a>
+<a href = "https://www.linkedin.com/in/madhur-narang-a5307a210/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
+</p>
+</td>
+
+<td>
 </tr>
 </table>
+
+--------
 
 ## Covid-Alert solves
 Covid Alert provides adminstration page for authorities such as hospitals and security agencies. It comprises of application which detects whether the person is wearing mask or not and will detect social distancing norms are being followed or not in near updates.
@@ -56,5 +74,19 @@ Covid Alert provides adminstration page for authorities such as hospitals and se
 
 - This application can easily be implemented on rasberrypie system and the system can be placed where the application work properly like hospitals
 
+--------
 
+## Accuracy of the application
+
+<img src="/img/plot.png" align="center" hspace="1" vspace="1" height="300" width="300">
+
+--------
   
+## Preview of Covid-Alert Web Page
+
+![Front_Page](/img/front_page.png)
+![Login_Page](/img/login1.png)
+![Advice and News](/img/livecasesandnews.png)
+![Advice_Page](/img/advice.png)
+
+
