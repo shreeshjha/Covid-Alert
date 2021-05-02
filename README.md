@@ -15,7 +15,7 @@ The project is developed and maintained by :-
 <table>
 <tr>
 <td>
-      <img src="https://avatars.githubusercontent.com/u/32769890?s=200&u=4ab22e420fe19647cdef4ab0bcbdb0c1cdf5bccb&v=4"/>
+      <img src="https://avatars.githubusercontent.com/u/32769890?s=200&u=4ab22e420fe19647cdef4ab0bcbdb0c1cdf5bccb&v=4"/width="200" height="200"/>
   
   Shreesh Kumar Jha
 
