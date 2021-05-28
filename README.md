@@ -90,6 +90,27 @@ This application can be readily developed on the Rasberrypie system, and the sys
 
 ## Tech Stack Used
 
+<table>
+<tr>
+<td>
+  <img src="/img/Js.png" alt="JavaScript logo" width="110" height="110">
+</td>
+ 
+<td>
+  <img src="/img/py.png" alt="Python logo" width="110" height="110">
+</td>
+
+<td>
+  <img src="/img/html5.png" alt="HTML5 logo" width="110" height="110">
+</td>
+
+<td>
+  <img src="/img/css3.jpg" alt="CSS3 logo" width="110" height="110">
+</td>
+</tr>
+</table>
+  
+
 --------
 
 ## Accuracy of the Face-Mask Detection
@@ -116,12 +137,13 @@ Product
 ![Product](/img/Products.jpeg)
 ---------
 
+---------
 ## Preview of Covid-Dashboard
 
 ![Covid_Dashboard](/img/Covid-Dashboard.PNG)
 -------
 
-
+-------
 ## Preview of Covid-Alert Application
 
 ![Face Detection without Mask](/img/FaceDetection_NoMask.png)
@@ -131,11 +153,13 @@ Product
 ![Working Prototype](/img/Covid-Alert-Application-Prototyp.gif)
 --------
 
+--------
 ## Preview of Social Distancing Detector
 
 ![Working Prototype2](/img/Social-Distancing-Preview.gif)
 -------
 
+-------
 ## Upcoming Features
 
 - Notification related to Covid-19 on handheld devices.
