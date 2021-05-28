@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://getbootstrap.com/">
+    <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="200" height="165">
+  </a>
+</p>
+
+<h3 align="center">FlashNode</h3>
+
 <img src="/img/logo.jfif" align="left" hspace="1" vspace="1" height="150" width="150">
 
 # Covid Alert
