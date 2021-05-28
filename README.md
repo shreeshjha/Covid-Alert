@@ -10,14 +10,16 @@
   A group of freshmen who are committed to and enthusiastic about growth.
   <br>
 
+-------
 <img src="/img/logo.jfif" align="left" hspace="1" vspace="1" height="150" width="150">
 
-# Covid Alert
+## Covid Alert
 
-Application for monitoring and predicting whether the person is wearing mask or not and whether they maintaining social distancing or not.
+App for detecting and determining whether someone is wearing a mask and maintaining social distance, as well as a web page with Covid-19-related information.
 
+<br>
+  
 ------
-
 ## Developers and Maintainers
 The project is developed and maintained by :-
 - **Shreesh Kumar Jha** ([Shreesh](https://github.com/shreeshjha))
