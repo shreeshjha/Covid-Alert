@@ -80,15 +80,19 @@ The project is developed and maintained by :-
 --------
 
 ## Covid-Alert Solves
-Covid Alert provides adminstration page for authorities such as hospitals and security agencies. It comprises of application which detects whether the person is wearing mask or not and will detect social distancing norms are being followed or not in near updates.
+Authorities such as hospitals and security organizations can use Covid Alert's administration page. It consists of an application that identifies whether or not a person is wearing a mask and also software that determines whether or not social distance conventions are being observed.
 
-- Proper utilisation of this project can help in limiting the spread the Covid-19 and also insure strict surveillance on government norms.
+Proper implementation of this project can aid in preventing the spread of Covid-19 while also ensuring rigorous adherence to government regulations.
 
-- This application can easily be implemented on rasberrypie system and the system can be placed where the application work properly like hospitals
+This application can be readily developed on the Rasberrypie system, and the system can be deployed in locations where the application may be used effectively, such as hospitals, places under surveillance by the police force, etc.
 
 --------
 
-## Accuracy of the application
+## Tech Stack Used
+
+--------
+
+## Accuracy of the Face-Mask Detection
 
 <img src="/img/plot.png" align="center" hspace="1" vspace="1" height="300" width="300">
 
@@ -112,9 +116,9 @@ Product
 ![Product](/img/Products.jpeg)
 ---------
 
-## Preview of Social Distancing Detector
+## Preview of Covid-Dashboard
 
-![Covid_Dashboard](/img/Covid Dashboard.PNG)
+![Covid_Dashboard](/img/Covid-Dashboard.PNG)
 -------
 
 
@@ -131,6 +135,11 @@ Product
 
 ![Working Prototype2](/img/Social-Distancing-Preview.gif)
 -------
+
+## Upcoming Features
+
+- Notification related to Covid-19 on handheld devices.
+- Integration of John Hopkins Data with Covid-Dashboard with better UI/UX.
 
 ## License
 
