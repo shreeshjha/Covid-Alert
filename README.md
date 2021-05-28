@@ -1,10 +1,14 @@
 <p align="center">
-  <a href="https://getbootstrap.com/">
-    <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="200" height="165">
+  <a href="">
+    <img src="/img/Logo2.png" alt="FlashNode logo" width="200" height="165">
   </a>
 </p>
 
 <h3 align="center">FlashNode</h3>
+
+<p align="center">
+  A group of freshmen who are committed to and enthusiastic about growth.
+  <br>
 
 <img src="/img/logo.jfif" align="left" hspace="1" vspace="1" height="150" width="150">
 
@@ -92,31 +96,41 @@ Covid Alert provides adminstration page for authorities such as hospitals and se
   
 ## Preview of Covid-Alert Web Page
 
-![Front_Page](/img/front_page.png)
-![Login_Page](/img/login1.png)
-![Advice and News](/img/livecasesandnews.png)
-![Advice_Page](/img/advice.png)
-
+Home Page
+![Home_Page](/img/Homepage.jpeg)
+--------
+Login Page
+![Login_Page](/img/Login.jpeg)
+--------
+About-Covid
+![About_Covid](/img/About-Covid.jpeg)
+--------
+Advice
+![Advice_Page](/img/Precaution.jpeg)
+--------
+Product
+![Product](/img/Products.jpeg)
 ---------
+
+## Preview of Social Distancing Detector
+
+![Covid_Dashboard](/img/Covid Dashboard.PNG)
+-------
+
 
 ## Preview of Covid-Alert Application
 
 ![Face Detection without Mask](/img/FaceDetection_NoMask.png)
+--------
 ![Face Detection with Mask](/img/FaceDetection_Mask.png)
-
 --------
-
 ![Working Prototype](/img/Covid-Alert-Application-Prototyp.gif)
-
 --------
 
-## Upcoming Feature :- Social Distancing Detector
+## Preview of Social Distancing Detector
 
-<td>
-    <img src="/img/social-distancing-feature.png"/width="350" height="350"/>
-</td>
-
-------
+![Working Prototype2](/img/Social-Distancing-Preview.gif)
+-------
 
 ## License
 
