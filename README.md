@@ -25,7 +25,7 @@ The project is developed and maintained by :-
 - **Shreesh Kumar Jha** ([Shreesh](https://github.com/shreeshjha))
 - **Abheet Sethi** ([Abheet](https://github.com/AbheetSethi))
 - **Vidhi Jain** ([Vidhi](https://github.com/vidhijain470))
-- **Madhur Narang**([Madhur](https://github.com/MadhurNarang))
+- **Parth Pasricha**([Parth](https://github.com/Parth132))
 <table>
 <tr>
 <td>
@@ -64,14 +64,14 @@ The project is developed and maintained by :-
 </td>
 
 <td> 
-    <img src="https://avatars.githubusercontent.com/u/71398066?v=4"/width="200" height="200"/>
+    <img src="https://avatars.githubusercontent.com/u/84956333?v=4"/width="200" height="200"/>
   
-  Madhur Narang
+  Parth Pasricha
 
 <p align="center">
-<a href = "https://github.com/MadhurNarang"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://twitter.com/MadhurNarang2?s=08"><img src = "https://www.shareicon.net/download/2016/07/06/107115_media.svg" width="36" height="36"/></a>
-<a href = "https://www.linkedin.com/in/madhur-narang-a5307a210/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
+<a href = "https://github.com/Parth132"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://twitter.com/Parth70332689"><img src = "https://www.shareicon.net/download/2016/07/06/107115_media.svg" width="36" height="36"/></a>
+<a href = "https://www.linkedin.com/in/parth-pasricha/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
 </p>
 </td>
 
