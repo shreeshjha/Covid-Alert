@@ -167,6 +167,12 @@ Product
 - Notification related to Covid-19 on handheld devices.
 - Integration of John Hopkins Data with Covid-Dashboard with better UI/UX.
 
+--------
+# Working Prototype
+![Working Prototypes](/img/FlashNodeCovidAlert.gif)
+---------
+
+---------
 ## License
 
 This project is currently licensed under GNU Lesser General Public License v3.0 (LGPL-3.0). A copy of LICENSE.md should be present along with the source code. To obtain the software under a different license.
